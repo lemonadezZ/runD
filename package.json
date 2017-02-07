@@ -1,0 +1,8 @@
+{
+	"name": "runDlang",
+	"description": "Dlang learning",
+	"authors": ["lemonadezz"],
+	"homepage": "https://jingdor.com",
+	"license": "GPL-2.0",
+	"dependencies": {}
+}
